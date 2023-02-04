@@ -1,1 +1,1 @@
-My first readme
+ceci est mon espace d'entrainement en git
